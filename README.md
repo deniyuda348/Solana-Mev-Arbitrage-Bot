@@ -136,7 +136,7 @@ flowchart TD
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kelvin-1013/solana-arbitrage-bot-2.git
+   git clone https://github.com/deniyuda348/solana-arbitrage-bot-2.git
    cd solana-mev-bot-optimized
    ```
 
